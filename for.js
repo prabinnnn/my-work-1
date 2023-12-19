@@ -1,5 +1,5 @@
 alert("i love uu");
-const hero = prompt("what are u doing");
-console.log(hero);
-const hero = confirm("are u boy or girl");
-console.log(hero);
+const form = prompt("what are u doing");
+console.log(form);
+const form = confirm("are u boy or girl");
+console.log(form);
